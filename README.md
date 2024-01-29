@@ -1,6 +1,6 @@
 # Ebook-llama2-chatbot
 
-This is an  Streamlit chatbot app built for LLaMA2(https://llm-examples-chatbot.streamlit.app) and  also made in gpt  (https://coding4vinayak-gpt-bot.streamlit.app/ ). The app includes session chat history and provides an option to select multiple LLaMA2 API endpoints on Replicate.
+This is an  Streamlit chatbot app built for LLaMA2(https://vinayak-ebook-llama2-bot.streamlit.app/) and  also made in gpt  (https://coding4vinayak-gpt-bot.streamlit.app/ ). The app includes session chat history and provides an option to select multiple LLaMA2 API endpoints on Replicate.
 
 
 **Usage**
